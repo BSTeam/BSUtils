@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BSUtils_Example' do
+  pod 'BSUtils', :path => '../'
+
+  target 'BSUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
