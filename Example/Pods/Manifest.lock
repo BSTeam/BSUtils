@@ -1,0 +1,16 @@
+PODS:
+  - BSUtils (0.0.1)
+
+DEPENDENCIES:
+  - BSUtils (from `../`)
+
+EXTERNAL SOURCES:
+  BSUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BSUtils: e72e839e2f56e20a0bda3d15609658ef2fa6599e
+
+PODFILE CHECKSUM: d517196c04fd797fa0b7099ee6e4023de6dbbd2d
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module BSUtils {
+  umbrella header "BSUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

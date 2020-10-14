@@ -1,0 +1,22 @@
+{
+  "name": "BSUtils",
+  "version": "0.0.1",
+  "summary": "BSUtils for BSTeam.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BSTeam/BSUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HughTsang": "tsanghugh@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/BSTeam/BSUtils.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BSUtils/Classes/**/*"
+}
